@@ -1,0 +1,22 @@
+{
+  "name": "init-plato",
+  "title": "INIT Plato",
+  "description": "A plugin for INIT using Plato",
+  "version": "0.1.0",
+  "homepage": "https://github.com/use-init/init-plato",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/use-init/init-plato.git"
+  },
+  "bugs": {
+    "url": "https://github.com/use-init/init-plato/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "matchdep": "0.3.0",
+    "grunt": "0.4.2",
+    "grunt-plato": "~0.2.1"
+  },
+  "keywords": []
+}
