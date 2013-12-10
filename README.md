@@ -2,7 +2,7 @@
 
 A plugin for [INIT](http://use-init.com/) using [Plato](https://github.com/es-analysis/plato) for complexity reports.
 
-[![devDependency Status](https://david-dm.org/drublic/init/dev-status.png)](https://david-dm.org/use-init/init-plato#info=devDependencies)
+[![devDependency Status](https://david-dm.org/use-init/init-plato/dev-status.png)](https://david-dm.org/use-init/init-plato#info=devDependencies)
 
 ## Installation
 You can add this plugin to INIT by copying over the file `config/plato.js` to `tasks/options` and run
